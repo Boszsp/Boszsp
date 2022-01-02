@@ -1,4 +1,4 @@
-### Hi there 👋
+![Supas.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=BoszGTec&show_icons=true&theme=cobalt&border_radiu)
 
 <!--
 **BoszGTec/BoszGTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
