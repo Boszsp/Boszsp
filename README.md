@@ -1,8 +1,41 @@
-# 🌟GitHub stats
+# Profile 📝
+### ประวัติการศึกษา 🎓
++ มัธยมต้น : โรงเรียนราชวินิต มัธยม
++ กำลังศึกษาอยู่มัธยมปลาย : โรงเรียนราชวินิต มัธยม
+
+### ความสามารถ 📍
++ สร้างเว็บด้วย
+<img height=20px src="https://cdn.svgporn.com/logos/html-5.svg">HTML , 
+<img height=20px src="https://cdn.svgporn.com/logos/css-3.svg" /> CSS และภาษา
+<img height=20px src="https://cdn.svgporn.com/logos/javascript.svg" />JavaScript ได้ 
++ เขียนภาษา <img height=20px src="https://raw.githubusercontent.com/gilbarbara/logos/9f0858601cc8543b51c8eea0722dbab4a7c7a1f9/logos/c.svg" /> C ,
+<img height=20px src="https://cdn.svgporn.com/logos/python.svg" />python ได้ 
++ ใช้
+<img height=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1600px-Google_Colaboratory_SVG_Logo.svg.png" /> Google Colab ได้
++ <img height=20px src="https://cdn.svgporn.com/logos/bootstrap.svg" /> ใช้ Bootstrap
++ เขียนไฟล์ <img height=20px src="https://cdn.svgporn.com/logos/markdown.svg" /> md เป็น
++ ตัดต่อวิดีโอด้วย 
+<img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3p9g0MIFlTG00s967wqwLvCr37Fhfv6mQdqswTxgfbnY9UG7Bx0YFz5L6&s=10" /> After Effect และ 
+<img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrKesytPJjSeREwTo4jxyMGbpmXQZFTSl1w&usqp=CAU" /> Premier Pro ได้
+
+### ความสนใจ 🔖
++ อยากทำอาชีพนักวิเคราะห์ระบบ ครับ
+
+### งานอดิเรก 🥅
++ ทดลองสร้างโปรแกรมจากภาษาที่เขียนได้
++ หาโปรแกรมจาก 
+<img height=20px src="https://cdn.svgporn.com/logos/github-icon.svg" /> GitHub มาทดลอง
++ ฟังเพลง ดูหนัง
+
+### ช่องทางการติดต่อ
++ เมลส่วนตัว : [ <img height=20px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](bossgeeg123456@gmail.com)
++ เมลโรงเรียน : [ <img height=20px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](22515@rnm.ac.th)
+
+## 🌟GitHub stats
 | ![Supas.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=BoszGTec&show_icons=true&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoszGTec&layout=compact&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54)](https://github.com/BoszGTec) |
 |----------|-------------|
 
-Contact : [Mailรร](mailto:22515@rnm.ac.th)
+Contact : [Mailรร](mailto:22515@rnm.ac.th) / [bossgeeg](mailto:bossgeeg123456@gmail.com)
 <!--ᛩᛜᛜᚧ ᚳⳘᛈⲔ-->
 <!-- get ku -- >
 <!--
