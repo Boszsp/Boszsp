@@ -32,9 +32,11 @@ Link : [Intro](https://youtu.be/UUtZNjkFnlk)
 + ฟังเพลง ดูหนัง
 
 ### ช่องทางการติดต่อ 📫
-+ เมลส่วนตัว : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](bossgeeg123456@gmail.com)
-+ เมลโรงเรียน : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](22515@rnm.ac.th)
++ เมลส่วนตัว : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](mailto:bossgeeg123456@gmail.com)
++ เมลสำรอง : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](mailto:tbcsso998@gmail.com)
++ เมลโรงเรียน : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](mailto:22515@rnm.ac.th)
 + YouTube : [ <img height=15px src="https://cdn.svgporn.com/logos/youtube-icon.svg" />tbsc so](https://www.youtube.com/channel/UCG8G1Jv490HAaEzzK8mnL4A)
++ GitHubสำรอง : [Tbcsos](https://github.com/Tbcsos)
 
 ### คติประจำใจ 🤍
 + อตฺตานํ อติมญฺญสิ ไม่ควรดูหมิ่นตนเอง
@@ -46,6 +48,7 @@ Link : [Intro](https://youtu.be/UUtZNjkFnlk)
 
 🙏ขอขอบคุณที่ให้ความสนใจครับ🙏 <br>
 [ข้อเสนอแนะ](https://formfacade.com/headless/116384025839853762093/home/form/1FAIpQLScKyvIEqslTkbSPqZ7At32wHE0_H9p3JaAAXemBcbazuPMK1w)
+<br>ᛩᛜᛜᚧ ᚳⳘᛈⲔ
 
 <!--ᛩᛜᛜᚧ ᚳⳘᛈⲔ-->
 <!-- get ku -- >
