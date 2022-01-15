@@ -9,17 +9,25 @@
 <img height=20px src="https://cdn.svgporn.com/logos/html-5.svg">HTML , 
 <img height=20px src="https://cdn.svgporn.com/logos/css-3.svg" />CSS และภาษา
 <img height=20px src="https://cdn.svgporn.com/logos/javascript.svg" />JavaScript ได้
+
 + สร้างเว็บด้วย 
 <img height=20px src="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Wix.com_website_logo.svg/1200px-Wix.com_website_logo.svg.png" />Wix และ
 <img height=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Google_Sites_2020_Logo.svg/1200px-Google_Sites_2020_Logo.svg.png" />Google Sites เป็น
+
 + ใช้ <img height=20px src="https://cdn.svgporn.com/logos/google-analytics.svg" />Google Analytics เป็น
+
 + เขียนภาษา <img height=20px src="https://raw.githubusercontent.com/gilbarbara/logos/9f0858601cc8543b51c8eea0722dbab4a7c7a1f9/logos/c.svg" /> C ,
 <img height=20px src="https://cdn.svgporn.com/logos/python.svg" />Python ได้ 
+
 + ใช้
 <img height=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1600px-Google_Colaboratory_SVG_Logo.svg.png" />Google Colab ได้
+
 + ใช้ <img height=20px src="https://cdn.svgporn.com/logos/bootstrap.svg" />Bootstrap ได้
+
 + เขียนไฟล์ <img height=20px src="https://cdn.svgporn.com/logos/markdown.svg" />md เป็น
+
 + สร้าง AI โดยใช้ Teachable Machine เป็น
+
 + ตัดต่อวิดีโอด้วย 
 <img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3p9g0MIFlTG00s967wqwLvCr37Fhfv6mQdqswTxgfbnY9UG7Bx0YFz5L6&s=10" /> After Effect และ 
 <img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrKesytPJjSeREwTo4jxyMGbpmXQZFTSl1w&usqp=CAU" /> Premier Pro ได้
