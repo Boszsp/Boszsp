@@ -13,7 +13,7 @@
 <img height=20px src="https://cdn.svgporn.com/logos/python.svg" />python ได้ 
 + ใช้
 <img height=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1600px-Google_Colaboratory_SVG_Logo.svg.png" /> Google Colab ได้
-+ <img height=20px src="https://cdn.svgporn.com/logos/bootstrap.svg" /> ใช้ Bootstrap
++ <img height=20px src="https://cdn.svgporn.com/logos/bootstrap.svg" /> ใช้ Bootstrap ได้
 + เขียนไฟล์ <img height=20px src="https://cdn.svgporn.com/logos/markdown.svg" /> md เป็น
 + ตัดต่อวิดีโอด้วย 
 <img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3p9g0MIFlTG00s967wqwLvCr37Fhfv6mQdqswTxgfbnY9UG7Bx0YFz5L6&s=10" /> After Effect และ 
