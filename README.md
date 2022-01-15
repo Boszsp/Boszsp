@@ -9,6 +9,10 @@
 <img height=20px src="https://cdn.svgporn.com/logos/html-5.svg">HTML , 
 <img height=20px src="https://cdn.svgporn.com/logos/css-3.svg" /> CSS และภาษา
 <img height=20px src="https://cdn.svgporn.com/logos/javascript.svg" />JavaScript ได้
++ สร้างเว็บด้วย 
+<img height=20px src="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Wix.com_website_logo.svg/1200px-Wix.com_website_logo.svg.png" />Wix และ
+<img height=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Google_Sites_2020_Logo.svg/1200px-Google_Sites_2020_Logo.svg.png" />Google Sites เป็น
++ ใช้ <img height=20px src="https://cdn.svgporn.com/logos/google-analytics.svg" />Google Analytics เป็น
 + เขียนภาษา <img height=20px src="https://raw.githubusercontent.com/gilbarbara/logos/9f0858601cc8543b51c8eea0722dbab4a7c7a1f9/logos/c.svg" /> C ,
 <img height=20px src="https://cdn.svgporn.com/logos/python.svg" />python ได้ 
 + ใช้
