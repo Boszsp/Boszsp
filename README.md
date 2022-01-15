@@ -65,8 +65,9 @@ Link : [Intro](https://youtu.be/UUtZNjkFnlk)
 
 🙏ขอขอบคุณที่ให้ความสนใจครับ🙏 <br>
 [ข้อเสนอแนะ](https://formfacade.com/headless/116384025839853762093/home/form/1FAIpQLScKyvIEqslTkbSPqZ7At32wHE0_H9p3JaAAXemBcbazuPMK1w)
-<br>ᛩᛜᛜᚧ ᚳⳘᛈⲔ
-
+<br>
+<img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvExeib04q4jszSmHNe3lnQmbd-LyijQmJQ&usqp=CAU" />ᛩᛜᛜᚧ ᚳⳘᛈⲔ
+<img height=20px src="https://www.shitsuren-tarot.com/wp/wp-content/uploads/2017/06/10_c.png" />
 <!--ᛩᛜᛜᚧ ᚳⳘᛈⲔ-->
 <!-- get ku -- >
 <!--
