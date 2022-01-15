@@ -7,7 +7,7 @@
 + สร้างเว็บด้วย
 <img height=20px src="https://cdn.svgporn.com/logos/html-5.svg">HTML , 
 <img height=20px src="https://cdn.svgporn.com/logos/css-3.svg" /> CSS และภาษา
-<img height=20px src="https://cdn.svgporn.com/logos/javascript.svg" />JavaScript ได้ 
+<img height=20px src="https://cdn.svgporn.com/logos/javascript.svg" />JavaScript ได้
 + เขียนภาษา <img height=20px src="https://raw.githubusercontent.com/gilbarbara/logos/9f0858601cc8543b51c8eea0722dbab4a7c7a1f9/logos/c.svg" /> C ,
 <img height=20px src="https://cdn.svgporn.com/logos/python.svg" />python ได้ 
 + ใช้
@@ -34,6 +34,10 @@ Link : [Intro](https://youtu.be/UUtZNjkFnlk)
 + เมลส่วนตัว : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](bossgeeg123456@gmail.com)
 + เมลโรงเรียน : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](22515@rnm.ac.th)
 + YouTube : [ <img height=15px src="https://cdn.svgporn.com/logos/youtube-icon.svg" />tbsc so](https://www.youtube.com/channel/UCG8G1Jv490HAaEzzK8mnL4A)
+
+### คติประจำใจ
++ อตฺตานํ อติมญฺญสิ ไม่ควรดูหมิ่นตนเอง
+
 
 ## 🌟GitHub stats
 | ![Supas.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=BoszGTec&show_icons=true&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoszGTec&layout=compact&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54)](https://github.com/BoszGTec) |
