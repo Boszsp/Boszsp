@@ -47,9 +47,9 @@ Link : [Intro](https://youtu.be/UUtZNjkFnlk)
 + ฟังเพลง ดูหนัง
 
 ### ช่องทางการติดต่อ 📫
-+ เมลส่วนตัว : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](mailto:bossgeeg123456@gmail.com)
-+ เมลสำรอง : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](mailto:tbcsso998@gmail.com)
-+ เมลโรงเรียน : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](mailto:22515@rnm.ac.th)
++ เมลส่วนตัว : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />bossgeeg](mailto:bossgeeg123456@gmail.com)
++ เมลสำรอง : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />tbcsso](mailto:tbcsso998@gmail.com)
++ เมลโรงเรียน : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />22515](mailto:22515@rnm.ac.th)
 + YouTube : [ <img height=15px src="https://cdn.svgporn.com/logos/youtube-icon.svg" />tbsc so](https://www.youtube.com/channel/UCG8G1Jv490HAaEzzK8mnL4A/videos)
 + GitHubสำรอง : [ <img height=20px src="https://cdn.svgporn.com/logos/github-icon.svg" />Tbcsos](https://github.com/Tbcsos)
 
