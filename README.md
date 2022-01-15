@@ -4,6 +4,7 @@
 
 Contact : [Mailรร](mailto:22515@rnm.ac.th)
 <!--ᛩᛜᛜᚧ ᚳⳘᛈⲔ-->
+<!-- get ku -- >
 <!--
 **BoszGTec/BoszGTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
