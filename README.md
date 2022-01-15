@@ -18,6 +18,7 @@
 <img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3p9g0MIFlTG00s967wqwLvCr37Fhfv6mQdqswTxgfbnY9UG7Bx0YFz5L6&s=10" /> After Effect และ 
 <img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrKesytPJjSeREwTo4jxyMGbpmXQZFTSl1w&usqp=CAU" /> Premier Pro ได้
 
+
 ### ความสนใจ 🔖
 + อยากทำอาชีพนักวิเคราะห์ระบบ ครับ
 
@@ -25,6 +26,7 @@
 + ทดลองสร้างโปรแกรมจากภาษาที่เขียนได้
 + หาโปรแกรมจาก 
 <img height=20px src="https://cdn.svgporn.com/logos/github-icon.svg" /> GitHub มาทดลอง
++ ทดลองตัดต่อวิดีโอเล่น
 + ฟังเพลง ดูหนัง
 
 ### ช่องทางการติดต่อ 📫
