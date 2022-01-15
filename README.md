@@ -8,7 +8,7 @@
 + สร้างเว็บด้วย
 <img height=20px src="https://cdn.svgporn.com/logos/html-5.svg">HTML , 
 <img height=20px src="https://cdn.svgporn.com/logos/css-3.svg" />CSS และภาษา
-<img height=20px src="https://cdn.svgporn.com/logos/javascript.svg" />JavaScript ได้
+<img height=15px src="https://cdn.svgporn.com/logos/javascript.svg" />JavaScript ได้
 
 + สร้างเว็บด้วย 
 <img height=15px src="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Wix.com_website_logo.svg/1200px-Wix.com_website_logo.svg.png" />Wix และ
@@ -35,7 +35,7 @@
 <img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3p9g0MIFlTG00s967wqwLvCr37Fhfv6mQdqswTxgfbnY9UG7Bx0YFz5L6&s=10" /> After Effect และ 
 <img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrKesytPJjSeREwTo4jxyMGbpmXQZFTSl1w&usqp=CAU" /> Premier Pro ได้
   + ตัวอย่างงาน <br>
-Link : [Intro](https://youtu.be/UUtZNjkFnlk)
+Link : [<img height=15px src="https://cdn.svgporn.com/logos/youtube-icon.svg" />Intro](https://youtu.be/UUtZNjkFnlk)
 
 ### ความสนใจ 🔖
 + นักวิเคราะห์ระบบ / นักออกแบบระบบ
