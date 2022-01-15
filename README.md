@@ -39,7 +39,9 @@ Link : [Intro](https://youtu.be/UUtZNjkFnlk)
 | ![Supas.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=BoszGTec&show_icons=true&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoszGTec&layout=compact&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54)](https://github.com/BoszGTec) |
 |----------|-------------|
 
-🙏ขอขอบคุณที่ให้ความสนใจครับ🙏
+🙏ขอขอบคุณที่ให้ความสนใจครับ🙏 <br>
+[ข้อเสนอแนะ](https://formfacade.com/headless/116384025839853762093/home/form/1FAIpQLScKyvIEqslTkbSPqZ7At32wHE0_H9p3JaAAXemBcbazuPMK1w)
+
 <!--ᛩᛜᛜᚧ ᚳⳘᛈⲔ-->
 <!-- get ku -- >
 <!--
