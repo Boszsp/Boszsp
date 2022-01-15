@@ -1,7 +1,7 @@
-# Profile 📝
+# 📝 Profile
 ### ประวัติการศึกษา 🎓
-+ มัธยมต้น : โรงเรียนราชวินิต มัธยม
-+ กำลังศึกษาอยู่มัธยมปลาย : โรงเรียนราชวินิต มัธยม
++ มัธยมต้น : <img height=20px src="http://new.rnm.ac.th/wp-content/uploads/2015/12/rnm-logo-%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B8%B2%E0%B8%A7-1024x1024.png" />โรงเรียนราชวินิต มัธยม
++ กำลังศึกษาอยู่มัธยมปลาย : <img height=20px src="http://new.rnm.ac.th/wp-content/uploads/2015/12/rnm-logo-%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B8%B2%E0%B8%A7-1024x1024.png" />โรงเรียนราชวินิต มัธยม
 
 ### ความสามารถ 📍
 + สร้างเว็บด้วย
@@ -27,15 +27,16 @@
 <img height=20px src="https://cdn.svgporn.com/logos/github-icon.svg" /> GitHub มาทดลอง
 + ฟังเพลง ดูหนัง
 
-### ช่องทางการติดต่อ
-+ เมลส่วนตัว : [ <img height=20px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](bossgeeg123456@gmail.com)
-+ เมลโรงเรียน : [ <img height=20px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](22515@rnm.ac.th)
+### ช่องทางการติดต่อ 📫
++ เมลส่วนตัว : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](bossgeeg123456@gmail.com)
++ เมลโรงเรียน : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />Gmail](22515@rnm.ac.th)
++ YouTube : [ <img height=15px src="https://cdn.svgporn.com/logos/youtube-icon.svg" />tbsc so](https://www.youtube.com/channel/UCG8G1Jv490HAaEzzK8mnL4A)
 
 ## 🌟GitHub stats
 | ![Supas.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=BoszGTec&show_icons=true&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoszGTec&layout=compact&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54)](https://github.com/BoszGTec) |
 |----------|-------------|
 
-Contact : [Mailรร](mailto:22515@rnm.ac.th) / [bossgeeg](mailto:bossgeeg123456@gmail.com)
+🙏ขอขอบคุณที่ให้ความสนใจครับ🙏
 <!--ᛩᛜᛜᚧ ᚳⳘᛈⲔ-->
 <!-- get ku -- >
 <!--
