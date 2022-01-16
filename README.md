@@ -63,7 +63,7 @@ Link : [<img height=15px src="https://cdn.svgporn.com/logos/youtube-icon.svg" />
 | ![Supas.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=BoszGTec&show_icons=true&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoszGTec&layout=compact&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54)](https://github.com/BoszGTec) |
 |----------|-------------|
 
-🙏ขอขอบคุณที่ให้ความสนใจครับ🙏 <br>
+🙏🙏ขอขอบคุณที่ให้ความสนใจครับ🙏🙏 <br>
 [ข้อเสนอแนะ](https://formfacade.com/headless/116384025839853762093/home/form/1FAIpQLScKyvIEqslTkbSPqZ7At32wHE0_H9p3JaAAXemBcbazuPMK1w)
 <br>
 <img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvExeib04q4jszSmHNe3lnQmbd-LyijQmJQ&usqp=CAU" />ᛩᛜᛜᚧ ᚳⳘᛈⲔ
