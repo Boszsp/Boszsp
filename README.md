@@ -67,10 +67,13 @@ Link : [<img height=15px src="https://cdn.svgporn.com/logos/youtube-icon.svg" />
 🙏🙏ขอขอบคุณที่ให้ความสนใจครับ🙏🙏 <br>
 [ข้อเสนอแนะ](https://formfacade.com/headless/116384025839853762093/home/form/1FAIpQLScKyvIEqslTkbSPqZ7At32wHE0_H9p3JaAAXemBcbazuPMK1w)
 <br>
+[All My Copyright](https://github.com/BoszGTec/BoszGTec/blob/main/All%20My%20Copyright.md)
+<br>
 <img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvExeib04q4jszSmHNe3lnQmbd-LyijQmJQ&usqp=CAU" />ᛩᛜᛜᚧ ᚳⳘᛈⲔ
 <img height=20px src="https://www.shitsuren-tarot.com/wp/wp-content/uploads/2017/06/10_c.png" />
+<!--© bossgeeg123456-->
 <!--ᛩᛜᛜᚧ ᚳⳘᛈⲔ-->
-<!-- get ku -- >
+<!-- get U -- >
 <!--
 **BoszGTec/BoszGTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
