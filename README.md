@@ -71,7 +71,7 @@ Link : [<img height=15px src="https://cdn.svgporn.com/logos/youtube-icon.svg" />
 [View My Copyright©](https://github.com/BoszGTec/BoszGTec/blob/main/All%20My%20Copyright.md)
 <br>
 <img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvExeib04q4jszSmHNe3lnQmbd-LyijQmJQ&usqp=CAU" />ᛩᛜᛜᚧ ᚳⳘᛈⲔ
-<img height=20px src="https://www.shitsuren-tarot.com/wp/wp-content/uploads/2017/06/10_c.png" />
+<img height=20px src="https://camo.githubusercontent.com/6b0f39c852c540c03ce1862204ac17f223f87d76ea9c5fcc37bfde05b3cdeb5e/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763533662326b32757a377062726e4d61547674696f5942793330754a6667455a666b68446726757371703d434155" />
 <!--© bossgeeg123456-->
 <!--ᛩᛜᛜᚧ ᚳⳘᛈⲔ-->
 <!-- get U -- >
