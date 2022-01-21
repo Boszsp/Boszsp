@@ -1,4 +1,4 @@
-# All My ©Copyright
+# 🔎All My ©Copyright
 ©Copyright by Boss (Supaschai Ph.)
 |No. | List ©          | Origin from.           |
 | -- | ----            |            ----------- |
