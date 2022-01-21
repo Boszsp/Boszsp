@@ -1,4 +1,5 @@
-# All My Copyright
+# All My ©Copyright
+©Copyright by Boss (Supaschai Ph.)
 |No. | List ©          | Origin from.           |
 | -- | ----            |            ----------- |
 |1.  |©bossgeeg        |<img height=15px src="https://camo.githubusercontent.com/9f8403b6cb58d427fe1fcaafdf1cf00299d0bf2ef53b14a5e32e66ccf657876d/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d676d61696c2e737667" />bossgeeg123456@gmail.com|  
