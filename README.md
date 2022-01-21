@@ -1,4 +1,4 @@
-# 📝 Profile
+# <img height=30px src="https://avatars.githubusercontent.com/u/95701554" /> Profile
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=prompt&color=%2387D7F7&vCenter=true&lines=$+Hello.;My+name+is+Supaschai.)](https://github.com/BoszGTec/)
 <br>
 🙏🙏ขอขอบคุณที่ให้ความสนใจครับ🙏🙏
