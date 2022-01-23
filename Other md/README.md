@@ -27,7 +27,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoszGTec&repo=BoszGTec&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54&show_owner=True)](https://github.com/BoszGTec/BoszGTec)
 
 ## Other Card
-| Card                                                                | Use      |
-| ----                                                                | ----     |
-|![image](https://colab.research.google.com/assets/colab-badge.svg)   | ```[![image](https://colab.research.google.com/assets/colab-badge.svg)](Link)  ``` |
+|Name    | Card                                                                | Use      |
+| ----   | ----                                                                | ----     |
+| Coalb  |![image](https://colab.research.google.com/assets/colab-badge.svg)   | ```[![image](https://colab.research.google.com/assets/colab-badge.svg)](Link)  ``` |
+| YouTube|![image](https://img.shields.io/badge/YouTube-Tbsc%20so-ff0000?style=flat&logo=youtube&logoColor=ff0000)|``` ![image](https://img.shields.io/badge/YouTube-Tbsc%20so-ff0000?style=flat&logo=youtube&logoColor=ff0000) ```|
+
+
+
 
