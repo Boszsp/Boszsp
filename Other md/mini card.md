@@ -8,7 +8,6 @@
 
 
 
-![image](https://img.shields.io/badge/HTML-ffffff?style=flat&logo=c++)
 
 ![image](https://img.shields.io/badge/HTML-ffffff?style=flat&logo=html5&logoColor=E34F26)
 
