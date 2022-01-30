@@ -1,7 +1,6 @@
 # <img height=30px src="https://avatars.githubusercontent.com/u/95701554" /> Profile
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=prompt&color=%2387D7F7&vCenter=true&lines=$+Hello.;My+name+is+Supaschai.)](https://github.com/BoszGTec/)
 <br>
-🙏🙏ขอขอบคุณที่ให้ความสนใจครับ🙏🙏
 ### ประวัติการศึกษา 🎓
 + มัธยมต้น : <img height=20px src="http://new.rnm.ac.th/wp-content/uploads/2015/12/rnm-logo-%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B8%B2%E0%B8%A7-1024x1024.png" />โรงเรียนราชวินิต มัธยม
 + กำลังศึกษาอยู่มัธยมปลาย : <img height=20px src="http://new.rnm.ac.th/wp-content/uploads/2015/12/rnm-logo-%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B8%B2%E0%B8%A7-1024x1024.png" />โรงเรียนราชวินิต มัธยม
