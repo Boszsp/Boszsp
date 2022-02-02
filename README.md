@@ -34,8 +34,8 @@
 <img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvg9MxpzGDja0B3rONQCtY6MOlno5BoQAUew&usqp=CAU" />Teachable Machine เป็น
 
 + ตัดต่อวิดีโอด้วย 
-<img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3p9g0MIFlTG00s967wqwLvCr37Fhfv6mQdqswTxgfbnY9UG7Bx0YFz5L6&s=10" /> After Effect และ 
-<img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrKesytPJjSeREwTo4jxyMGbpmXQZFTSl1w&usqp=CAU" /> Premier Pro ได้
+<img height=20px src="https://camo.githubusercontent.com/ccab6d42ea6def6f52dbe1932231d6830734355c7a6d06ed5b03978a5b0e0675/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63622f41646f62655f41667465725f456666656374735f43435f69636f6e2e7376672f3231303170782d41646f62655f41667465725f456666656374735f43435f69636f6e2e7376672e706e67" /> After Effect และ 
+<img height=20px src="https://camo.githubusercontent.com/2832bfa3f1cf918fa3b14f881fd9f516de7e29ee5e227351a5905ac15371cfb3/68747470733a2f2f6c6f676f646f776e6c6f61642e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f61646f62652d7072656d696572652d70726f2d6c6f676f2d312d312e706e67" /> Premier Pro ได้
   + ตัวอย่างงาน <br>
 Link : [<img height=15px src="https://cdn.svgporn.com/logos/youtube-icon.svg" />Intro](https://youtu.be/UUtZNjkFnlk)
 
