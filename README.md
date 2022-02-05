@@ -1,10 +1,4 @@
 # <img height=30px src="https://avatars.githubusercontent.com/u/95701554" /> Profile
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=prompt&color=%2387D7F7&vCenter=true&lines=$+Hello.;My+name+is+Supaschai.)](https://github.com/BoszGTec/)
-<br>
-### ประวัติการศึกษา 🎓
-+ มัธยมต้น : <img height=20px src="http://new.rnm.ac.th/wp-content/uploads/2015/12/rnm-logo-%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B8%B2%E0%B8%A7-1024x1024.png" />โรงเรียนราชวินิต มัธยม
-+ กำลังศึกษาอยู่มัธยมปลาย : <img height=20px src="http://new.rnm.ac.th/wp-content/uploads/2015/12/rnm-logo-%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%82%E0%B8%B2%E0%B8%A7-1024x1024.png" />โรงเรียนราชวินิต มัธยม
-+ Go to ...
 
 ### ความสามารถ 📍
 + สร้างเว็บด้วย
@@ -50,30 +44,20 @@ Link : [<img height=15px src="https://cdn.svgporn.com/logos/youtube-icon.svg" />
 + ฟังเพลง ดูหนัง
 
 ### ช่องทางการติดต่อ 📫
-+ เมลส่วนตัว : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />bossgeeg](mailto:bossgeeg123456@gmail.com)
-+ เมลสำรอง : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />tbcsso](mailto:tbcsso998@gmail.com)
-+ เมลโรงเรียน : [ <img height=15px src="https://cdn.svgporn.com/logos/google-gmail.svg" />22515](mailto:22515@rnm.ac.th)
-+ YouTube : [ <img height=15px src="https://cdn.svgporn.com/logos/youtube-icon.svg" />tbsc so](https://www.youtube.com/channel/UCG8G1Jv490HAaEzzK8mnL4A/videos)
 + GitHubสำรอง : [ <img height=20px src="https://cdn.svgporn.com/logos/github-icon.svg" />Tbcsos](https://github.com/Tbcsos)
-+ Webpage : [<img height=10px src="https://raw.githubusercontent.com/BoszGTec/boszgtec.github.io/main/port/image/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%9E1.png" />My webpage](https://boszgtec.github.io/port)
-
-### คติประจำใจ 🤍
-+ อตฺตานํ อติมญฺญสิ ไม่ควรดูหมิ่นตนเอง
 
 ## 🌟GitHub stats
 | ![Supas.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=BoszGTec&show_icons=true&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoszGTec&layout=compact&theme=tokyonight&bg_color=10,1a1b27,0a0d31&border_color=424a54)](https://github.com/BoszGTec) |
 |----------|-------------|
 
-🙏🙏ขอขอบคุณที่ให้ความสนใจครับ🙏🙏 <br>
 [>ข้อเสนอแนะ](https://formfacade.com/headless/116384025839853762093/home/form/1FAIpQLScKyvIEqslTkbSPqZ7At32wHE0_H9p3JaAAXemBcbazuPMK1w)
 <br>
 [>View My Copyright©](https://github.com/BoszGTec/BoszGTec/blob/main/All%20My%20Copyright.md)
 <br>
-@Supaschai Ph.
+@SupPh.
 <br>
 <img height=20px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvExeib04q4jszSmHNe3lnQmbd-LyijQmJQ&usqp=CAU" />ᛩᛜᛜᚧ ᚳⳘᛈⲔ
 
-<!--© bossgeeg123456-->
 <!--ᛩᛜᛜᚧ ᚳⳘᛈⲔ-->
 <!-- get U -- >
 <!--
