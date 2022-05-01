@@ -4,7 +4,7 @@
 
 ![image](https://img.shields.io/badge/Tbsc%20so-fff?style=flat&logo=youtube&logoColor=ff0000)
 
-![image](https://img.shields.io/badge/Facebook-Bocss%20Tapter-1877F2?style=flat&logo=facebook&logoColor=1877F2)
+![image](https://img.shields.io/badge/Facebook-BT-1877F2?style=flat&logo=facebook&logoColor=1877F2)
 
 ![image](https://img.shields.io/badge/Bocss%20Tapter-fff?style=flat&logo=facebook&logoColor=1877F2)
 
