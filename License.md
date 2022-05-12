@@ -1,5 +1,5 @@
 ## Writing by <br>
-©2020 bossgeeg by Supaschai Photichai
+©2020 bossgeeg by Supaschai Ph.
 
 ## Special thanks
 + school logo from[rnm](http://new.rnm.ac.th/)
